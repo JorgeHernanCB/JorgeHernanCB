@@ -43,4 +43,4 @@
 
 ### 📈 Estadísticas de GitHub
 
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=JorgeHernanCB&show_icons=true&theme=radical)
